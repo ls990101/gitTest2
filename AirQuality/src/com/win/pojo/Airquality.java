@@ -1,5 +1,9 @@
 package com.win.pojo;
-
+/**
+ * Œ“∞Æ–€∏Á
+ * @author asus
+ *
+ */
 public class Airquality {
 		private int id;
 		private int district_id;
